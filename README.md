@@ -1,6 +1,8 @@
 node-red-contrib-telegrambot-home
 =====================================
 
+Fork of [scraton/node-red-contrib-telegrambot-home](https://github.com/scraton/node-red-contrib-telegrambot-home) as it is mostly inactive.
+
 Useful nodes for connecting your home to Telegram.
 
 ## Getting Started
